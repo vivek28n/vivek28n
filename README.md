@@ -94,7 +94,7 @@ An interactive 3D platform for exploring ocean conditions across **space, depth,
 - ⚡ React + Three.js frontend
 - 🐍 FastAPI + Python backend
 
-🔗 **[Live Demo](https://ocean3d-jzk8sx93p-vivek28ns-projects.vercel.app/)**  
+🔗 **[Live Demo](https://ocean3d.vercel.app)**  
 🔗 **[GitHub Repository](https://github.com/vivek28n/Ocean3d)**
 
 ---
