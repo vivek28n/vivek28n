@@ -132,19 +132,6 @@ A Retrieval-Augmented Generation assistant for the medical domain focused on **t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivek28n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek28n&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek28n&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm open to **AI/ML applications, GenAI & RAG systems, full-stack builds, and data-driven projects**.
