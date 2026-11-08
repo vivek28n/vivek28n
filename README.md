@@ -1,217 +1,275 @@
-# 👋 Hey, I'm Vivek Nigam
+<!--
+  VIVEK NIGAM | AI RESEARCH LAB
+  GitHub Profile README
+-->
 
-### AI/ML Engineer in the Making · Full-Stack Developer · Builder
+<div align="center">
 
-I build software at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Engineering**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:4c1d95,100:0891b2&height=260&section=header&text=VIVEK%20NIGAM&fontSize=66&fontColor=ffffff&fontAlignY=36&desc=AI%20ENGINEERING%20%2F%2F%20FULL-STACK%20DEVELOPMENT&descSize=17&descAlignY=57&animation=fadeIn" />
 
-From real-time platforms to intelligent RAG systems, I enjoy turning complex ideas into practical, working products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=INITIALIZING+AI+RESEARCH+LAB...;Building+Intelligent+Systems+%26+Digital+Products;Exploring+RAG%2C+LLMs+%26+Machine+Learning;Engineering+Real-Time+Full-Stack+Applications;Turning+Ideas+Into+Working+Software." alt="Animated introduction" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=200&section=header&text=Vivek%20Nigam&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Think%20%7C%20Build%20%7C%20Ship&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Vivek Nigam profile banner" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivek-nigam-28n/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nigamvivek2805@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vivek28n">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/theviveknigam">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/vivek28n">
+<img src="https://img.shields.io/badge/GitHub-vivek28n-0b1220?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vivek-nigam-28n/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nigamvivek2805@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20ENGINEERING-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-10B981?style=flat-square" />
+
+</div>
 
 ---
 
-## `$ whoami`
+# `01 / SYSTEM IDENTITY`
 
-```java
-public class VivekNigam {
+```yaml
+name: Vivek Nigam
+designation: B.Tech CSE (Artificial Intelligence) Student
 
-    String education = "B.Tech CSE (Artificial Intelligence)";
-    String interests = "AI/ML, Generative AI, Full-Stack Development";
-    String languages = "Java, Python, JavaScript, TypeScript";
-    String focus = "Building intelligent, production-ready applications";
-    String currentlyLearning = "DSA, LLMs, RAG & System Design";
+engineering_interests:
+  - Artificial Intelligence & Machine Learning
+  - Generative AI & Large Language Models
+  - Retrieval-Augmented Generation
+  - Full-Stack Application Development
+  - Real-Time Distributed Applications
 
-    String mindset() {
-        return "Learn deeply. Build thoughtfully. Ship consistently.";
-    }
-}
+primary_languages:
+  - Java
+  - Python
+  - JavaScript
+  - TypeScript
+
+current_objective: >
+  Engineer intelligent, reliable and production-ready
+  software that solves meaningful problems.
+
+engineering_philosophy: "Understand deeply. Build intelligently. Ship consistently."
 ```
 
-I believe the best way to learn engineering is to build things that solve actual problems.
+I enjoy working across the stack — from designing interactive interfaces and backend architectures to experimenting with intelligent systems and retrieval pipelines.
+
+My focus is not just learning technologies, but understanding how they work together to create useful products.
 
 ---
 
-## 🚀 Featured Projects
+# `02 / RESEARCH & ENGINEERING PROJECTS`
 
-Projects I've built, engineered, and shipped.
+<sub>SELECTED BUILDS · IMPLEMENTATION · EXPERIMENTATION</sub>
 
-### 01. QueueLess — Real-Time Queue Management
+## <img src="https://img.shields.io/badge/01-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge" />
 
-<a href="https://queue-less-nine.vercel.app">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20QueueLess-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/vivek28n/QueueLess">
-  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### QueueLess — Real-Time Queue Management Infrastructure
 
-A real-time queue management platform that allows customers to join queues digitally and track their position without physically waiting in line.
+<a href="https://queue-less-nine.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-Visit%20Application-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/vivek28n/QueueLess"><img src="https://img.shields.io/badge/SOURCE-Explore%20Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**Key Engineering Highlights**
-- QR-based contactless queue joining.
-- Real-time token and queue updates using Socket.IO.
-- Multi-tenant business accounts and role-based access.
-- Admin dashboard for queue and customer management.
-- Atomic token generation and concurrency handling.
-- Responsive landing page with a custom Three.js visualization.
+> Reimagining physical queues through contactless check-in and real-time digital queue tracking.
 
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Three.js` `JWT`
+**System capabilities**
+
+- QR-based customer queue joining without native app installation.
+- Live token position and status updates powered by Socket.IO.
+- Multi-tenant business accounts and JWT-based authentication.
+- Admin dashboard for queue lifecycle and customer dispatch.
+- Atomic token generation and concurrent request handling.
+- Three.js-powered interactive landing page.
+
+**Technology stack**
+
+`React 19` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `Three.js`
 
 ---
 
-### 02. Medical RAG — Hallucination Detection
+## <img src="https://img.shields.io/badge/02-GENERATIVE%20AI-7C3AED?style=for-the-badge" />
 
-<a href="https://github.com/vivek28n/Medical-RAG-Hallucination-Detection">
-  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### Medical RAG — Hallucination Detection & Reliable Retrieval
 
-An intelligent medical document question-answering system focused on making retrieval-augmented generation more reliable and reducing unsupported AI responses.
+<a href="https://github.com/vivek28n/Medical-RAG-Hallucination-Detection"><img src="https://img.shields.io/badge/SOURCE-Explore%20Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**Key Engineering Highlights**
-- PDF ingestion and document processing.
+> Exploring how retrieval-augmented generation can make AI-generated answers more grounded and reliable in medical document workflows.
+
+**System capabilities**
+
+- PDF ingestion and document preprocessing.
 - Text chunking and embedding generation.
-- Semantic retrieval using vector search.
+- Semantic retrieval through vector databases.
 - Hallucination detection and confidence scoring.
-- Backend APIs with a dedicated frontend interface.
+- FastAPI-based backend and React frontend.
+
+**Technology stack**
 
 `Python` `FastAPI` `LangChain` `FAISS / ChromaDB` `React`
 
 ---
 
-### 03. Ocean3D — Interactive Ocean Digital Twin
+## <img src="https://img.shields.io/badge/03-DIGITAL%20TWINS-06B6D4?style=for-the-badge" />
 
-<a href="https://ocean3d.vercel.app">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-Explore%20Ocean3D-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/vivek28n/Ocean3d">
-  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### Ocean3D — Interactive Ocean Digital Twin
 
-An interactive 3D ocean visualization platform designed to explore ocean conditions across different regions, depths, and time dimensions.
+<a href="https://ocean3d.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-Explore%20Ocean3D-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/vivek28n/Ocean3d"><img src="https://img.shields.io/badge/SOURCE-Explore%20Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**Key Engineering Highlights**
-- Interactive 3D ocean visualization.
-- Model-versus-observation comparisons.
+> An interactive 3D environment for exploring ocean conditions across regions, depths and time.
+
+**System capabilities**
+
+- WebGL-powered 3D ocean visualization.
+- Model-versus-observation comparison.
 - RMSE-based analysis and anomaly detection.
 - Ocean current-flow visualization.
-- Simulated research AUV and glider layer.
+- Simulated research AUV and glider visualization.
+
+**Technology stack**
 
 `React` `TypeScript` `Three.js` `FastAPI` `Python` `NumPy` `Pandas`
 
 ---
 
-### 04. Smart EV Charging Station Management
+## <img src="https://img.shields.io/badge/04-INTELLIGENT%20MOBILITY-10B981?style=for-the-badge" />
 
-<a href="https://github.com/vivek28n/Smart-EV-charging-managment-system">
-  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### Smart EV Charging Station Management
 
-An intelligent EV charging discovery platform that helps users find suitable charging stations based on multiple factors rather than distance alone.
+<a href="https://github.com/vivek28n/Smart-EV-charging-managment-system"><img src="https://img.shields.io/badge/SOURCE-Explore%20Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**Key Engineering Highlights**
+> A smart EV charging discovery platform that ranks charging stations using multiple decision factors instead of distance alone.
+
+**System capabilities**
+
 - AI-based waiting-time prediction.
 - Weighted multi-factor station ranking.
 - Haversine distance calculation.
-- Interactive maps with lazy-loaded components.
-- Responsive user interface.
+- Interactive Leaflet maps with lazy loading.
+- Responsive application interface.
+
+**Technology stack**
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Supabase` `PostgreSQL`
 
 ---
 
-## 🧰 Technology Stack
+# `03 / TECHNOLOGY LAB`
 
-**Languages**
+<sub>TOOLS, FRAMEWORKS & TECHNOLOGIES I WORK WITH</sub>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php" />
-</p>
+<div align="center">
 
-**AI / Machine Learning**
+### PROGRAMMING LANGUAGES
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-`NumPy` · `Pandas` · `LangChain` · `FAISS` · `ChromaDB`
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php&theme=dark" />
 
-**Frontend Development**
+### AI / MACHINE LEARNING
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,threejs,html,css,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
-**Backend Development**
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-7C3AED?style=for-the-badge" />
 
-**Databases & Cloud**
+### FRONTEND ENGINEERING
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,threejs,html,css,tailwind,bootstrap&theme=dark" />
 
-**Developer Tools**
+### BACKEND ENGINEERING
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
 
----
+### DATABASES & CLOUD
 
-## 📈 Currently Working On
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,aws&theme=dark" />
 
-- Strengthening Data Structures & Algorithms with Java.
-- Exploring advanced RAG architectures and evaluation.
-- Learning more about scalable backend systems.
-- Building practical Generative AI applications.
-- Improving software engineering and problem-solving skills.
+### DEVELOPER ECOSYSTEM
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# `04 / CURRENT RESEARCH TRACK`
 
-I'm interested in collaborating on:
+<div align="center">
 
-- AI / ML and Generative AI applications.
-- RAG systems and intelligent document processing.
-- Full-stack products and real-time applications.
-- Interesting engineering challenges.
+| TRACK | CURRENT FOCUS |
+|:---|:---|
+| `01` | Java · Data Structures & Algorithms |
+| `02` | RAG evaluation & hallucination reduction |
+| `03` | Generative AI & LLM applications |
+| `04` | Backend architecture & scalable systems |
+| `05` | Production deployment & engineering practices |
 
-If you're building something interesting, let's connect!
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivek-nigam-28n/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nigamvivek2805@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20an%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Current mindset:** Move beyond tutorials. Understand the underlying systems. Build, test, evaluate and improve.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek28n&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+---
 
-<p align="center">
-  <i>Building today. Getting better every commit.</i>
-</p>
+# `05 / GITHUB TELEMETRY`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4338ca&height=110&section=footer" width="100%" alt="Footer banner" />
+<div align="center">
+
+<a href="https://github.com/vivek28n">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivek28n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/vivek28n">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek28n&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek28n&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek28n&bg_color=020617&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+# `06 / CONNECT TO THE LAB`
+
+<div align="center">
+
+**Have an interesting idea, engineering challenge or collaboration in mind?**
+
+I'm open to conversations around AI/ML, Generative AI, RAG systems and full-stack engineering.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vivek-nigam-28n/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nigamvivek2805@gmail.com">
+<img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vivek28n&style=for-the-badge&color=0891B2&label=LAB+VISITORS" alt="Profile visitors" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4c1d95,100:020617&height=140&section=footer" width="100%" />
+
+<sub>ENGINEERED WITH CURIOSITY · POWERED BY CONSISTENCY</sub>
+
+**`END OF TRANSMISSION.`**
+
+</div>
