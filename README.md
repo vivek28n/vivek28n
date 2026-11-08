@@ -1,172 +1,217 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Vivek%20Nigam&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Build%20%E2%80%A2%20Deploy%20%E2%80%A2%20Iterate&descAlignY=58&descSize=22&animation=fadeIn" width="100%" alt="Vivek Nigam" />
+# 👋 Hey, I'm Vivek Nigam
+
+### AI/ML Engineer in the Making · Full-Stack Developer · Builder
+
+I build software at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Engineering**.
+
+From real-time platforms to intelligent RAG systems, I enjoy turning complex ideas into practical, working products.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=AI%2FML+Engineer+in+the+making;Full-Stack+%7C+Deep+Learning+%7C+RAG;DSA+with+Java%2C+every+week;I+learn+best+by+building+things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=200&section=header&text=Vivek%20Nigam&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Think%20%7C%20Build%20%7C%20Ship&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Vivek Nigam profile banner" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivek-nigam-28n/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nigamvivek2805@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/theviveknigam"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://ocean3d.vercel.app"><img src="https://img.shields.io/badge/Ocean3D-Live%20Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivek-nigam-28n/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nigamvivek2805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vivek28n">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/theviveknigam">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<br>
+---
 
-## 🧑‍💻 whoami
+## `$ whoami`
 
 ```java
-public class Vivek {
+public class VivekNigam {
 
-    String role        = "B.Tech CSE (AI) Student";
-    String building    = "AI apps, RAG systems, full-stack platforms";
-    String researching = "Hallucination reduction in RAG";
-    String practicing  = "DSA in Java";
-    String goal        = "SWE / AI Engineer at a top tech company";
-    String openTo      = "Internships, collabs, hard engineering problems";
+    String education = "B.Tech CSE (Artificial Intelligence)";
+    String interests = "AI/ML, Generative AI, Full-Stack Development";
+    String languages = "Java, Python, JavaScript, TypeScript";
+    String focus = "Building intelligent, production-ready applications";
+    String currentlyLearning = "DSA, LLMs, RAG & System Design";
 
-    public String philosophy() {
-        return "If it makes me curious, I build it.";
+    String mindset() {
+        return "Learn deeply. Build thoughtfully. Ship consistently.";
     }
 }
 ```
 
-<br>
+I believe the best way to learn engineering is to build things that solve actual problems.
+
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Projects I've built, engineered, and shipped.
 
-<img src="https://img.shields.io/badge/-OCEAN3D-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/-LIVE-22c55e?style=flat-square" />
+### 01. QueueLess — Real-Time Queue Management
 
-**Interactive Ocean Digital Twin**
-Explore ocean conditions across space, depth, and time in 3D.
+<a href="https://queue-less-nine.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20QueueLess-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/vivek28n/QueueLess">
+  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🌐 WebGL 3D ocean, multiple regions and depths
-- 📊 Model vs. observation comparison, RMSE stats
-- 🚨 Anomaly detection + current-flow visualization
-- 🤖 Simulated research AUV/glider layer
+A real-time queue management platform that allows customers to join queues digitally and track their position without physically waiting in line.
 
-`React` `Three.js` `FastAPI` `Python`
+**Key Engineering Highlights**
+- QR-based contactless queue joining.
+- Real-time token and queue updates using Socket.IO.
+- Multi-tenant business accounts and role-based access.
+- Admin dashboard for queue and customer management.
+- Atomic token generation and concurrency handling.
+- Responsive landing page with a custom Three.js visualization.
 
-[🔗 Live Demo](https://ocean3d.vercel.app) · [📂 Code](https://github.com/vivek28n/Ocean3d)
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Three.js` `JWT`
 
-</td>
-<td width="50%" valign="top">
+---
 
-<img src="https://img.shields.io/badge/-EV%20CHARGING-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-DEPLOYED-22c55e?style=flat-square" />
+### 02. Medical RAG — Hallucination Detection
 
-**Smart EV Charging Station Management**
-Find the *right* station, not just the nearest one.
+<a href="https://github.com/vivek28n/Medical-RAG-Hallucination-Detection">
+  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🤖 AI waiting-time prediction
-- 📍 Weighted multi-factor ranking + Haversine distance
-- 🗺️ Interactive Leaflet map, lazy-loaded
-- ⚡ Fast, responsive UI
+An intelligent medical document question-answering system focused on making retrieval-augmented generation more reliable and reducing unsupported AI responses.
 
-`React` `TypeScript` `Tailwind` `Node.js` `Supabase` `PostgreSQL`
-
-[📂 Code](https://github.com/vivek28n/Smart-EV-charging-managment-system)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/-MEDICAL%20RAG-f43f5e?style=for-the-badge" /> <img src="https://img.shields.io/badge/-IN%20PROGRESS-f59e0b?style=flat-square" />
-
-**RAG Assistant with Hallucination Detection**
-RAG that knows when it might be wrong. Research paper in progress.
-
-- 📄 PDF ingestion → chunking → embeddings → vector search
-- 🎯 Hallucination detection + confidence scoring
-- 🛠️ FastAPI backend, React (Vite) frontend
+**Key Engineering Highlights**
+- PDF ingestion and document processing.
+- Text chunking and embedding generation.
+- Semantic retrieval using vector search.
+- Hallucination detection and confidence scoring.
+- Backend APIs with a dedicated frontend interface.
 
 `Python` `FastAPI` `LangChain` `FAISS / ChromaDB` `React`
 
-[📂 Code](https://github.com/vivek28n/Medical-RAG-Hallucination-Detection)
+---
 
-</td>
-<td width="50%" valign="top">
+### 03. Ocean3D — Interactive Ocean Digital Twin
 
-<img src="https://img.shields.io/badge/-QUEUELESS-14b8a6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-ALMOST%20DONE-f59e0b?style=flat-square" />
+<a href="https://ocean3d.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-Explore%20Ocean3D-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/vivek28n/Ocean3d">
+  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Smart Live Queue Management System**
-Join a queue from your phone and track your spot live, no app download needed.
+An interactive 3D ocean visualization platform designed to explore ocean conditions across different regions, depths, and time dimensions.
 
-- 🔗 Contactless guest check-in (QR-based)
-- ⚡ Real-time queue position via Socket.IO
-- 🏢 Multi-tenant business accounts, role-based Admin/Staff (JWT)
-- 🎛️ Multi-counter dispatch + smart wait-time estimation
+**Key Engineering Highlights**
+- Interactive 3D ocean visualization.
+- Model-versus-observation comparisons.
+- RMSE-based analysis and anomaly detection.
+- Ocean current-flow visualization.
+- Simulated research AUV and glider layer.
 
-`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `Socket.IO`
+`React` `TypeScript` `Three.js` `FastAPI` `Python` `NumPy` `Pandas`
 
-<!-- TODO: add links -> [🔗 Live Demo](URL) · [📂 Code](https://github.com/vivek28n/REPO) -->
+---
 
-</td>
-</tr>
-</table>
+### 04. Smart EV Charging Station Management
 
-<br>
+<a href="https://github.com/vivek28n/Smart-EV-charging-managment-system">
+  <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## 📚 More Work
+An intelligent EV charging discovery platform that helps users find suitable charging stations based on multiple factors rather than distance alone.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Key Engineering Highlights**
+- AI-based waiting-time prediction.
+- Weighted multi-factor station ranking.
+- Haversine distance calculation.
+- Interactive maps with lazy-loaded components.
+- Responsive user interface.
 
-**🎓 NIET Event Management System**
-Role-based college event platform (Admin, Organizer, Student) with approval lifecycle and analytics dashboards.
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Supabase` `PostgreSQL`
 
-`Java 17` `Spring Boot` `Spring Security` `Hibernate` `MySQL` `Chart.js`
+---
 
-</td>
-<td width="50%" valign="top">
+## 🧰 Technology Stack
 
-**📰 NewsHub**
-Live news aggregator powered by NewsAPI.
+**Languages**
 
-`HTML5` `CSS3` `JavaScript` `PHP`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️ Tech Arsenal
-
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,python,js,ts,php" /></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" /></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,threejs,tailwind,bootstrap,html,css" /></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" /></td></tr>
-<tr><td><b>Data & Cloud</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,aws" /></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,maven" /></td></tr>
-</table>
-
-<br>
-
-## 🎯 Currently Leveling Up
-
-```diff
-+ Java + Data Structures & Algorithms
-+ RAG evaluation and hallucination reduction
-+ Generative AI & LLM applications
-+ Shipping production-ready, deployed apps
-```
-
-<br>
-
-## 🤝 Let's Build Something
-
-Open to **AI/ML apps, GenAI & RAG systems, full-stack builds, and data-driven projects.**
-Ping me on [LinkedIn](https://www.linkedin.com/in/vivek-nigam-28n/) or [email](mailto:nigamvivek2805@gmail.com).
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek28n&style=for-the-badge&color=8b5cf6&label=PROFILE%20VIEWS" alt="Profile views" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=110&section=footer" width="100%" />
+**AI / Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+`NumPy` · `Pandas` · `LangChain` · `FAISS` · `ChromaDB`
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,threejs,html,css,tailwind,bootstrap" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+</p>
+
+**Databases & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,aws" />
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
+</p>
+
+---
+
+## 📈 Currently Working On
+
+- Strengthening Data Structures & Algorithms with Java.
+- Exploring advanced RAG architectures and evaluation.
+- Learning more about scalable backend systems.
+- Building practical Generative AI applications.
+- Improving software engineering and problem-solving skills.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+- AI / ML and Generative AI applications.
+- RAG systems and intelligent document processing.
+- Full-stack products and real-time applications.
+- Interesting engineering challenges.
+
+If you're building something interesting, let's connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-nigam-28n/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nigamvivek2805@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20an%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek28n&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>Building today. Getting better every commit.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4338ca&height=110&section=footer" width="100%" alt="Footer banner" />
