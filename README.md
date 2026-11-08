@@ -220,10 +220,17 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/vivek28n">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivek28n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek28n&theme=tokyonight" alt="GitHub profile details" />
 </a>
 <a href="https://github.com/vivek28n">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek28n&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek28n&theme=tokyonight" alt="GitHub stats" />
+</a>
+
+<a href="https://github.com/vivek28n">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek28n&theme=tokyonight" alt="Repos per language" />
+</a>
+<a href="https://github.com/vivek28n">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek28n&theme=tokyonight" alt="Most commit language" />
 </a>
 
 <br/>
