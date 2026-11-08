@@ -215,6 +215,29 @@ flowchart LR
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/vivek28n">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivek28n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/vivek28n">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek28n&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com/?user=vivek28n&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek28n&bg_color=020617&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
+</div>
+
+---
+
 ## Now
 
 <div align="center">
