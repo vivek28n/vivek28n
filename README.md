@@ -196,6 +196,25 @@ flowchart LR
 
 ---
 
+## Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/vivek28n/">
+  <img src="https://leetcard.jacoblin.cool/vivek28n?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" width="560" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/vivek28n/"><img src="https://img.shields.io/badge/LeetCode-vivek28n-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Vivek28"><img src="https://img.shields.io/badge/Codolio-Vivek28-7C3AED?style=for-the-badge" /></a>
+
+<sub>DSA · PROBLEM SOLVING IN JAVA</sub>
+
+</div>
+
+---
+
 ## Now
 
 <div align="center">
