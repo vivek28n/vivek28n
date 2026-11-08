@@ -220,10 +220,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/vivek28n">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek28n&theme=tokyonight" alt="GitHub profile details" />
-</a>
-<a href="https://github.com/vivek28n">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek28n&theme=tokyonight" alt="GitHub stats" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek28n&theme=tokyonight" alt="GitHub profile details" />
 </a>
 
 <a href="https://github.com/vivek28n">
@@ -233,13 +230,13 @@ flowchart LR
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek28n&theme=tokyonight" alt="Most commit language" />
 </a>
 
+<a href="https://github.com/vivek28n">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek28n&theme=tokyonight" alt="GitHub stats" />
+</a>
+
 <br/>
 
 <img width="95%" src="https://streak-stats.demolab.com/?user=vivek28n&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek28n&bg_color=020617&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
