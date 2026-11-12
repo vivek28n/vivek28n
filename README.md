@@ -117,7 +117,7 @@ flowchart LR
 <a href="https://github.com/vivek28n/Ocean3d"><img src="https://img.shields.io/badge/SOURCE-Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 - 🌐 WebGL 3D ocean visualization with multiple regions and depths
-- 📊 Model vs. observation comparison, RMSE analysis, anomaly detection
+- 📊 Model vs. observation comparison, RMSE analysis,anomaly detection
 - 🧭 Ocean current-flow visualization
 - 🤖 Simulated research AUV and glider layer
 
